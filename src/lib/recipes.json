@@ -1,0 +1,267 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Classic Margherita Pizza",
+      "description": "A simple yet delicious Italian pizza with fresh ingredients",
+      "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella", "Fresh basil", "Olive oil", "Salt"],
+      "instructions": [
+        "Preheat oven to 475°F",
+        "Roll out pizza dough",
+        "Spread tomato sauce",
+        "Add cheese",
+        "Bake for 10-12 minutes",
+        "Garnish with fresh basil"
+      ],
+      "prepTime": 20,
+      "cookTime": 12,
+      "difficulty": "easy",
+      "category": "vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "2",
+      "name": "Mushroom Risotto",
+      "description": "Creamy Italian rice dish with wild mushrooms and parmesan",
+      "ingredients": [
+        "Arborio rice",
+        "Mixed mushrooms",
+        "Vegetable broth",
+        "White wine",
+        "Onion",
+        "Garlic",
+        "Parmesan cheese",
+        "Butter",
+        "Fresh thyme"
+      ],
+      "instructions": [
+        "Sauté mushrooms",
+        "Cook onions and garlic",
+        "Add rice and wine",
+        "Gradually add broth",
+        "Stir until creamy",
+        "Finish with parmesan",
+        "Garnish with thyme"
+      ],
+      "prepTime": 15,
+      "cookTime": 30,
+      "difficulty": "medium",
+      "category": "vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "3",
+      "name": "Chocolate Lava Cake",
+      "description": "Decadent individual chocolate cakes with a molten center",
+      "ingredients": ["Dark chocolate", "Butter", "Eggs", "Sugar", "Flour", "Vanilla extract", "Salt"],
+      "instructions": [
+        "Preheat oven to 425°F",
+        "Melt chocolate and butter",
+        "Whisk eggs and sugar",
+        "Combine mixtures",
+        "Add flour",
+        "Bake in ramekins for 12 minutes"
+      ],
+      "prepTime": 15,
+      "cookTime": 12,
+      "difficulty": "medium",
+      "category": "dessert",
+      "isPremium": true
+    },
+    {
+      "id": "4",
+      "name": "Thai Green Curry",
+      "description": "Aromatic coconut-based curry with vegetables and tofu",
+      "ingredients": ["Green curry paste", "Coconut milk", "Tofu", "Bell peppers", "Bamboo shoots", "Thai basil", "Brown sugar", "Soy sauce", "Rice"],
+      "instructions": [
+        "Press and cube tofu",
+        "Heat curry paste in pan",
+        "Add coconut milk",
+        "Add vegetables",
+        "Simmer until cooked",
+        "Season to taste",
+        "Serve with rice"
+      ],
+      "prepTime": 30,
+      "cookTime": 20,
+      "difficulty": "medium",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "5",
+      "name": "Eggplant Parmesan",
+      "description": "Classic Italian baked dish with layers of eggplant, cheese, and tomato sauce",
+      "ingredients": ["Eggplant", "Mozzarella", "Parmesan", "Tomato sauce", "Breadcrumbs", "Eggs", "Basil", "Olive oil", "Garlic"],
+      "instructions": [
+        "Slice and salt eggplant",
+        "Bread eggplant slices",
+        "Fry until golden",
+        "Layer with sauce and cheese",
+        "Bake until bubbly",
+        "Rest before serving"
+      ],
+      "prepTime": 40,
+      "cookTime": 35,
+      "difficulty": "medium",
+      "category": "vegetarian",
+      "isPremium": true
+    },
+    {
+      "id": "6",
+      "name": "Quinoa Buddha Bowl",
+      "description": "Nutritious bowl with quinoa, roasted vegetables, and tahini dressing",
+      "ingredients": ["Quinoa", "Sweet potato", "Chickpeas", "Kale", "Avocado", "Tahini", "Lemon juice", "Garlic", "Olive oil"],
+      "instructions": [
+        "Cook quinoa",
+        "Roast sweet potatoes",
+        "Season and roast chickpeas",
+        "Make tahini dressing",
+        "Massage kale",
+        "Assemble bowl",
+        "Drizzle with dressing"
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "difficulty": "easy",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "7",
+      "name": "Spinach and Ricotta Cannelloni",
+      "description": "Pasta tubes filled with creamy spinach and ricotta, baked in tomato sauce",
+      "ingredients": ["Cannelloni pasta", "Spinach", "Ricotta cheese", "Tomato sauce", "Garlic", "Nutmeg", "Mozzarella", "Parmesan", "Fresh basil"],
+      "instructions": [
+        "Cook spinach",
+        "Mix with ricotta",
+        "Fill pasta tubes",
+        "Cover with sauce",
+        "Top with cheese",
+        "Bake until golden",
+        "Garnish with basil"
+      ],
+      "prepTime": 45,
+      "cookTime": 30,
+      "difficulty": "medium",
+      "category": "vegetarian",
+      "isPremium": true
+    },
+    {
+      "id": "8",
+      "name": "Summer Gazpacho",
+      "description": "Refreshing cold Spanish soup with fresh vegetables",
+      "ingredients": ["Tomatoes", "Cucumber", "Bell pepper", "Garlic", "Olive oil", "Sherry vinegar", "Bread", "Salt", "Pepper"],
+      "instructions": [
+        "Chop vegetables",
+        "Blend until smooth",
+        "Add vinegar and oil",
+        "Season to taste",
+        "Chill for 2 hours",
+        "Garnish and serve cold"
+      ],
+      "prepTime": 25,
+      "cookTime": 0,
+      "difficulty": "easy",
+      "category": "vegan",
+      "isPremium": false
+    },
+    {
+      "id": "9",
+      "name": "Vegetable Sushi Rolls",
+      "description": "Fresh and colorful sushi rolls filled with crisp vegetables",
+      "ingredients": ["Sushi rice", "Nori sheets", "Avocado", "Cucumber", "Carrots", "Rice vinegar", "Sesame seeds", "Wasabi", "Soy sauce"],
+      "instructions": [
+        "Prepare sushi rice",
+        "Julienne vegetables",
+        "Spread rice on nori",
+        "Add vegetables",
+        "Roll tightly",
+        "Cut into pieces",
+        "Serve with condiments"
+      ],
+      "prepTime": 45,
+      "cookTime": 30,
+      "difficulty": "medium",
+      "category": "vegan",
+      "isPremium": true
+    },
+    {
+      "id": "10",
+      "name": "Apple Cinnamon Oatmeal",
+      "description": "Warm and comforting breakfast with fresh apples and spices",
+      "ingredients": ["Rolled oats", "Apple", "Cinnamon", "Brown sugar", "Milk", "Salt", "Butter", "Nuts", "Maple syrup"],
+      "instructions": [
+        "Bring milk to boil",
+        "Add oats and reduce heat",
+        "Dice apple",
+        "Add apple and cinnamon",
+        "Cook until creamy",
+        "Top with nuts",
+        "Drizzle with maple syrup"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "difficulty": "easy",
+      "category": "vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "11",
+      "name": "Grilled Chicken Breast",
+      "description": "Juicy grilled chicken breast marinated in herbs and garlic",
+      "ingredients": ["Chicken breast", "Olive oil", "Garlic", "Rosemary", "Thyme", "Lemon", "Salt", "Black pepper"],
+      "instructions": [
+        "Marinate chicken with herbs and oil",
+        "Preheat grill to medium-high",
+        "Grill chicken for 6-8 minutes per side",
+        "Check internal temperature",
+        "Rest for 5 minutes",
+        "Slice and serve"
+      ],
+      "prepTime": 15,
+      "cookTime": 16,
+      "difficulty": "easy",
+      "category": "non-vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "12",
+      "name": "Classic Beef Burger",
+      "description": "Juicy homemade beef burger with caramelized onions",
+      "ingredients": ["Ground beef", "Onion", "Burger buns", "Lettuce", "Tomato", "Cheese", "Mayo", "Mustard", "Salt", "Pepper"],
+      "instructions": [
+        "Form beef patties",
+        "Season with salt and pepper",
+        "Grill until desired doneness",
+        "Toast the buns",
+        "Caramelize onions",
+        "Assemble burger with toppings"
+      ],
+      "prepTime": 20,
+      "cookTime": 15,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": false
+    },
+    {
+      "id": "13",
+      "name": "Honey Glazed Salmon",
+      "description": "Pan-seared salmon with sweet honey glaze",
+      "ingredients": ["Salmon fillet", "Honey", "Soy sauce", "Garlic", "Ginger", "Lemon", "Butter", "Green onions"],
+      "instructions": [
+        "Mix honey glaze",
+        "Season salmon",
+        "Sear skin-side up",
+        "Flip and add glaze",
+        "Cook until done",
+        "Garnish with green onions"
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "difficulty": "medium",
+      "category": "non-vegetarian",
+      "isPremium": true
+    }
+  ]
+}
